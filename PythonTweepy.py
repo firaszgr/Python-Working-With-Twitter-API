@@ -360,16 +360,3 @@ for k, v in d[0].items():
     G.add_edge(k[0], k[1], weight=(v * 10))
 
 G.add_node("china", weight=100)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
